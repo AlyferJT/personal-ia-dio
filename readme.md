@@ -102,11 +102,40 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
+## Objetivo do treino
+
+A quarta regra requer que o usuário informe qual o objetivo dele com os treinos:
+Exemplos:
+- Perda de peso
+- Ganho de massa muscular
+- Definição
+- Aumento de resistência
+- Treino complementar para algum tipo de esporte
+- Ou algum outro tipo de necessidade
+
+
+Essa regra define o objetivo do cliente com o treino, ajudando a criar um treino mais específico para suas necessidades.
+
+---
+
+## Limitações e lesões
+
+A quinta regra define se o usuário tem alguma limitação ou lesão em algum musculo ou osso.
+Exemplos:
+- Tenho problema na minha perna direita
+- Tenho uma fratura no meu pulso esquerdo
+
+Essa regra limita os exercícios conforme as limitações do usuário, para evitar que o cliente tenha problemas durante o treino.
+**Nota**: Na maioria das vezes o cliente não terá uma limitação
+
+---
+
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+5. **Identifique seus objetivos** para personalizar conforme as necessidades.
 4. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
